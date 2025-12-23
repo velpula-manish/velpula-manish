@@ -1,20 +1,18 @@
-## Hi 👋 I'm Manish Kumar Actively seeking entry-level roles in Data Analytics or Python Development.
+## Hi  I'm Manish Kumar Actively seeking entry-level roles in Data Analytics or Python Development.
 
 
 🎓 MCA Graduate | Aspiring Data Analyst / Python Developer  
 📊 Strong in Python, SQL, ML, Power BI, and Data Visualization  
 
-### 🔧 Skills
+###  Skills
 - Python, SQL, Java
 - Machine Learning
 - Django, Flask
 - Power BI, Excel
 - Git & GitHub
-  
-**Skills:** Python | SQL | ML | Power BI | Django | Flask
 
 
-### 🚀 Projects
+###  Projects
 - Flask Face Attendance System
 - Python Full Stack Web Application (Django)
 - Smart City Infrastructure Analysis
