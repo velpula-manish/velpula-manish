@@ -10,6 +10,7 @@
 - Django, Flask
 - Power BI, Excel
 - Git & GitHub
+  
 **Skills:** Python | SQL | ML | Power BI | Django | Flask
 
 
