@@ -18,8 +18,8 @@
 - Smart City Infrastructure Analysis
 - Cafe Management System (Java)
 
-### 📫 Contact
+###  Contact 
 - LinkedIn: https://linkedin.com/in/velpula-manish
 - Email: velpulamanishpatel@gmail.com
 - Resume : https://drive.google.com/file/d/1r1032oLPEf48FamSAhGsP8CJA0tF3IBN/view?usp=sharing
-- portfolio website: https://manishs-data-can.lovable.app/
+- Digital portfolio : https://manishs-data-can.lovable.app/
