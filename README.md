@@ -10,13 +10,12 @@
 - Django, Flask
 - Power BI, Excel
 - Git & GitHub
-- 
 **Skills:** Python | SQL | ML | Power BI | Django | Flask
 
 
 ### 🚀 Projects
 - Flask Face Attendance System
--Python Full Stack Web Application (Django)
+- Python Full Stack Web Application (Django)
 - Smart City Infrastructure Analysis
 - Cafe Management System (Java)
 
