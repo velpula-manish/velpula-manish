@@ -22,3 +22,4 @@
 - LinkedIn: https://linkedin.com/in/velpula-manish
 - Email: velpulamanishpatel@gmail.com
 - Resume : https://drive.google.com/file/d/1r1032oLPEf48FamSAhGsP8CJA0tF3IBN/view?usp=sharing
+- portfolio website: https://manishs-data-can.lovable.app/
