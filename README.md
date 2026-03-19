@@ -1,25 +1,125 @@
-## Hi  I'm Manish Kumar Actively seeking entry-level roles in Data Analytics or Python Development.
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Manish+Kumar+👋;MCA+Graduate+%7C+AI+Developer;Python+%7C+Data+Analyst;Building+Real-World+AI+Apps!)
 
-🎓 MCA Graduate | Aspiring Data Analyst / Python Developer  
-📊 Strong in Python, SQL, ML, Power BI, and Data Visualization  
+</div>
 
-###  Skills
-- Python, SQL, Java
-- Machine Learning
-- Django, Flask
-- Power BI, Excel
-- Git & GitHub
+---
 
+## 👨‍💻 About Me
 
-###  Projects
-- Flask Face Attendance System
-- Python Full Stack Web Application (Django)
-- Smart City Infrastructure Analysis
-- Cafe Management System (Java)
+- 🎓 **MCA Graduate** — Actively seeking entry-level roles in **Data Analytics / Python Development / AI**
+- 🧠 Strong in **Python, SQL, ML, Power BI, and Data Visualization**
+- 🤖 Building real-world **AI applications** using LLMs, LangChain and Groq
+- 🌍 Creator of **AI Travel Itinerary Planner** — a fully deployed AI product
+- 📫 Reach me at: **velpulamanishpatel@gmail.com**
 
-###  Contact 
-- LinkedIn: https://linkedin.com/in/velpula-manish
-- Email: velpulamanishpatel@gmail.com
-- Resume : https://drive.google.com/file/d/1r1032oLPEf48FamSAhGsP8CJA0tF3IBN/view?usp=sharing
-- Digital portfolio : https://manishs-data-can.lovable.app/
+---
+
+## 🌟 FEATURED PROJECT — AI TRAVEL PLANNER
+
+<div align="center">
+
+[![AI Travel Planner](https://img.shields.io/badge/🌍_AI_TRAVEL_PLANNER-LIVE_DEMO-38bdf8?style=for-the-badge)](https://ai-travel-planner-h7f7ryewjbufa5tdvfewnu.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/velpula-manish/ai-travel-planner)
+
+</div>
+
+> 🚀 A fully deployed AI-powered travel planning application — **NOT just a ChatGPT wrapper!**
+
+### 🔥 What Makes It Unique vs ChatGPT
+
+| Feature | ChatGPT | My App |
+|---|---|---|
+| 💬 AI Chatbot with trip memory | ❌ Resets every time | ✅ Remembers full trip! |
+| 📊 Visual Budget Charts | ❌ Text only | ✅ Pie chart + timeline! |
+| 🛡️ Real-time Safety Score | ❌ Manual search | ✅ Auto AI analysis! |
+| 🌤️ Live Weather | ❌ No | ✅ Open-Meteo API! |
+| 🏠→📍 Full Journey Plan | ❌ Manual prompting | ✅ From home to back! |
+| 💰 Budget Guard System | ❌ No | ✅ Warns + adapts! |
+| ✈️ Direct Booking Links | ❌ No | ✅ IRCTC, RedBus, Skyscanner! |
+| 📱 Installable as Mobile App | ❌ No | ✅ PWA — Install on phone! |
+| 🌐 12 Languages | ❌ Manual | ✅ Auto translate! |
+| 📧 Email + PDF Export | ❌ Copy paste only | ✅ One click! |
+
+### 🛠️ Tech Stack Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-LLaMA_3.1-orange?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-Agent-green?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-Web_Search-blue?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-Charts-9C27B0?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Deployed-181717?style=flat-square&logo=github)
+
+---
+
+## 🛠️ All Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, SQL, Java, JavaScript |
+| **AI / ML** | LangChain, Groq AI, Tavily, Machine Learning |
+| **Web** | Streamlit, Django, Flask, HTML, CSS |
+| **Data** | Power BI, Excel, Data Visualization |
+| **Database** | MySQL, SQL Server |
+| **Tools** | Git, GitHub, Google Colab, VS Code |
+| **APIs** | REST APIs, Weather API, Maps API, LLM APIs |
+
+---
+
+## 📁 All Projects
+
+### 🤖 AI Projects
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **🌍 AI Travel Planner** | AI-powered travel itinerary generator with chatbot, weather, safety score | Python, Groq, Tavily, Streamlit | [Live Demo](https://ai-travel-planner-h7f7ryewjbufa5tdvfewnu.streamlit.app) |
+
+### 🌐 Web Projects
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **🏙️ Smart City Infrastructure** | Hyderabad smart city analysis | HTML, Python | [View](https://github.com/velpula-manish/Hyderabad-Smart-City-Infrastructure) |
+| **🐍 Python Full Stack App** | Full stack web app with Django & SQL | Django, SQL | [View](https://github.com/velpula-manish/Python-Full-Stack-with-Django-SqlDatabase) |
+| **☕ Cafe Management System** | Java-based cafe management | Java | [View](https://github.com/velpula-manish/Java-cafe-Management-System) |
+
+### 📊 Data Projects
+| Project | Description | Tech |
+|---|---|---|
+| **👤 Flask Face Attendance** | Automated attendance with face recognition | Flask, Python, HTML |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=velpula-manish&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velpula-manish&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=velpula-manish&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/velpula-manish)
+[![Email](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail)](mailto:velpulamanishpatel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge)](https://manishs-data-can.lovable.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1r1032oLPEf48FamSAhGsP8CJA0tF3l8N/view?usp=sharing)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you found my work helpful, please star my repositories!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=velpula-manish&color=38bdf8&style=flat-square)
+
+</div>
