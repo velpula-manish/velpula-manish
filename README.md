@@ -27,7 +27,7 @@
 
 > 🚀 A fully deployed AI-powered travel planning application — **NOT just a ChatGPT wrapper!**
 
-### 🔥 What Makes It Unique vs ChatGPT
+### 🔥 What Makes It Unique vs AI MODELS
 
 | Feature | ChatGPT | My App |
 |---|---|---|
@@ -87,21 +87,7 @@
 |---|---|---|
 | **👤 Flask Face Attendance** | Automated attendance with face recognition | Flask, Python, HTML |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=velpula-manish&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velpula-manish&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=velpula-manish&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Contact Me
 
