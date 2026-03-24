@@ -13,6 +13,10 @@
 - 🤖 Building real-world **AI applications** using LLMs, LangChain and Groq
 - 🌍 Creator of **AI Travel Itinerary Planner** and **MediRAG AI** — fully deployed AI products
 - 📫 Reach me at: **velpulamanishpatel@gmail.com**
+  
+🌐 Live Portfolio
+
+**URL**: https://manishs-data-can.lovable.app
 
 ---
 
@@ -134,7 +138,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/velpula-manish)
 [![Email](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail)](mailto:velpulamanishpatel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge)](https://manishs-data-can.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge)](https://manishs-data-can.lovable.app)
 [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1r1032oLPEf48FamSAhGsP8CJA0tF3l8N/view?usp=sharing)
 
 </div>
